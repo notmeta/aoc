@@ -1,1 +1,1 @@
-
+- [2025](https://github.com/notmeta/aoc/tree/2025)
