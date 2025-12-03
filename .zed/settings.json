@@ -1,4 +1,9 @@
 {
   "show_edit_predictions": false,
-  "project_name": "aoc"
+  "project_name": "aoc",
+  "languages": {
+    "Python": {
+      "wrap_guides": [128]
+    }
+  }
 }
